@@ -30,4 +30,10 @@ select * from Employees;
 -- drop database company;
 -- use master;
 ````
-### Create a new console application with the name of *EF-1* using Microsoft Visual Studio Community 2019
+### Create a new console application using Microsoft Visual Studio Community 2019
+1. Create New Project
+2. Select Console App(.Net Framework)
+3. Name it as EF-1
+4. Select Location where you want to save the project
+5. Select Framework (Here,I selected .NET Freamework 4.7.2)
+And click **Create** button to create project with above specifications.
