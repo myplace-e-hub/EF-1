@@ -70,4 +70,4 @@ class CompanyDbContext : DbContext
 }
 ````
 ### Retrive data using DbSet
-``
+`List<Employee> employees = db.Employees.ToList();`
