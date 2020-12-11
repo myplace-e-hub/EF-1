@@ -4,7 +4,7 @@ In this project, We are going to learn about ORM (Oject Relational Mapping) patt
 1. Microsoft Visual Studio Community 2019
 2. SQL Server Database engine
 3. SQL Server Management Studio
-### Create a new database with the name of *company* using SQL Server Management Studio
+### Create a new database using SQL Server Management Studio
 ````
 create database company;
 go
@@ -32,8 +32,8 @@ select * from Employees;
 ````
 ### Create a new console application using Microsoft Visual Studio Community 2019
 1. Create New Project
-2. Select Console App(.Net Framework)
-3. Name it as EF-1
-4. Select Location where you want to save the project
-5. Select Framework (Here,I selected .NET Freamework 4.7.2)
+2. Select **Console App(.Net Framework)**
+3. Name it as **EF-1**
+4. Select **Location** where you want to save the project
+5. Select **Framework** (Here,I selected .NET Freamework 4.7.2)
 And click **Create** button to create project with above specifications.
