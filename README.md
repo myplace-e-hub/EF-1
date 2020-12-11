@@ -40,7 +40,7 @@ And click **Create** button to create project with above specifications.
 ### This Project Requires Enity Framework Package
 We can install it using **NuGet Package Manager** > **Package Manager Console**<br/><br/>
 `install-package EntityFramework`<br/><br/>
-**Package Manager Console** will add following references to the Project.
+After installation, **Package Manager Console** will add following references to the Project.
 1. EntityFramework.dll
 2. EntityFramework.SqlServer.dll
 3. System.ComponentModel.DataAnnotations.dll
