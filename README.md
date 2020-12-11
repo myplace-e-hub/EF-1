@@ -44,3 +44,4 @@ After installation, **Package Manager Console** will add following references to
 1. EntityFramework.dll
 2. EntityFramework.SqlServer.dll
 3. System.ComponentModel.DataAnnotations.dll
+And The above packages(dependencies) listed inside packages.config file to maintain and restore the project's dependencies when the project to be transported to a different machine, such as a build server, without all those packages.
