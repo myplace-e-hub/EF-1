@@ -38,5 +38,5 @@ select * from Employees;
 5. Select **Framework** (Here,I selected .NET Freamework 4.7.2)
 And click **Create** button to create project with above specifications.
 ### This Project Requires Enity Framework Package
-We can install it using **NuGet Package Manager** > **Package Manager Console**__
+We can install it using **NuGet Package Manager** > **Package Manager Console**<br/>
 `install-package EntityFramework`
