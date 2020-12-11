@@ -4,3 +4,4 @@ In this project, We are going to learn about ORM (Oject Relational Mapping) patt
 1. Microsoft Visual Studio Community 2019
 2. SQL Server Database engine
 3. SQL Server Management Studio
+## Creating a new database with the name of **company**
