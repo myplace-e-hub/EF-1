@@ -39,4 +39,4 @@ select * from Employees;
 And click **Create** button to create project with above specifications.
 ### This Project Requires Enity Framework Package
 We can install it using **NuGet Package Manager** > **Package Manager Console**
-```install-package EntityFramework```
+````install-package EntityFramework````
