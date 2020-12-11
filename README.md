@@ -69,3 +69,5 @@ class CompanyDbContext : DbContext
     public DbSet<Employee> Employees { get; set; }
 }
 ````
+### Retrive data using DbSet
+``
