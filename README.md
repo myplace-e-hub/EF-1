@@ -45,4 +45,4 @@ After installation, **Package Manager Console** will add following references to
 2. EntityFramework.SqlServer.dll
 3. System.ComponentModel.DataAnnotations.dll
 
-And The above packages(dependencies) listed inside packages.config file to maintain and restore the project's dependencies when the project to be transported to a different machine, such as a build server, without all those packages.<br/><br/>
+And The above packages(dependencies) listed inside [packages.config](https://github.com/myplace-e-hub/EF-1/blob/main/EF-1/packages.config) file to maintain and restore the project's dependencies when the project to be transported to a different machine, such as a build server, without all those packages.<br/><br/>
