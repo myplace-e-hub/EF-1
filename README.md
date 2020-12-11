@@ -61,4 +61,11 @@ class Employee
 Name it as *CompanyDbContext* represents a collection of DbSets.
 DbSet represents a table provides methods to insert, retrive, update and delete data from actual table
 ````
+class CompanyDbContext : DbContext
+{
+    public CompanyDbContext() : base(@"Data Source=DESKTOP-GSLLMHA;Initial Catalog=company;Integrated Security=True")
+    {
+    }
+    public DbSet<Employee> Employees { get; set; }
+}
 ````
