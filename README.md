@@ -46,3 +46,12 @@ After installation, **Package Manager Console** will add following references to
 3. System.ComponentModel.DataAnnotations.dll
 
 And The above packages(dependencies) listed inside [packages.config](https://github.com/myplace-e-hub/EF-1/blob/main/EF-1/packages.config) file to maintain and restore the project's dependencies when the project to be transported to a different machine, such as a build server, without all those packages.<br/><br/>
+### Create a Model Class
+Name it as *Employee* which reflects structure of the table *Employees*
+````
+````
+### Create a DbContext Class
+Name it as *CompanyDbContext* represents a collection of DbSets.
+DbSet represents a table provides methods to insert, retrive, update and delete data from actual table
+````
+````
