@@ -43,5 +43,6 @@ We can install it using **NuGet Package Manager** > **Package Manager Console**<
 After installation, **Package Manager Console** will add following references to the Project.
 1. EntityFramework.dll
 2. EntityFramework.SqlServer.dll
-3. System.ComponentModel.DataAnnotations.dll<br/><br/>
-And The above packages(dependencies) listed inside packages.config file to maintain and restore the project's dependencies when the project to be transported to a different machine, such as a build server, without all those packages.<br/><br/>
+3. System.ComponentModel.DataAnnotations.dll
+
+<br/><br/> And The above packages(dependencies) listed inside packages.config file to maintain and restore the project's dependencies when the project to be transported to a different machine, such as a build server, without all those packages.<br/><br/>
