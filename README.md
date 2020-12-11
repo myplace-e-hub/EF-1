@@ -4,7 +4,7 @@ In this project, We are going to learn about ORM (Oject Relational Mapping) patt
 1. Microsoft Visual Studio Community 2019
 2. SQL Server Database engine
 3. SQL Server Management Studio
-## Create a new database with the name of *company* using SQL Server Management Studio
+### Create a new database with the name of *company* using SQL Server Management Studio
 ````
 create database company;
 go
@@ -30,4 +30,4 @@ select * from Employees;
 -- drop database company;
 -- use master;
 ````
-## Create a new console application with the name of *EF-1* using Microsoft Visual Studio Community 2019
+### Create a new console application with the name of *EF-1* using Microsoft Visual Studio Community 2019
